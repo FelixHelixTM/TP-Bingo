@@ -27,7 +27,10 @@ Set GM Story flag and Start W/ Crstl to Yes, leave Hidden Skills as No
 
 Known bugs with TP Rando:
 At the moment, having "Rando enabled? = No" causes a couple of issues, specifcally when collecting hidden skills, or when going through Snowpeak Ruins.
+
 You can get around this by opening the rando menu, and changing "Rando enabled? = No" to "Rando enabled? = Yes", and going through a load zone.
+
 Make sure to do this before collecting a hidden skill, so it will actually be added to your inventory.
 Make sure to do the same for Snowpeak Ruins if you intend to do it glitchless.
+
 Afterwards, you can just set "Rando enabled?" back to No, and go through a load zone to apply it.
