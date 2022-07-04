@@ -65,14 +65,12 @@ bingoList[5] = [
         { name: "Defeat 5 Enemies with Slingshot" },
         { name: "3 Tunics" },
         { name: "Get a Bomb Bag" },
-        { name: "Get All 7 Palace of Twilight Small Keys" },
         { name: "Get all Ordon Village Checks" }
 ];
 bingoList[6] = [
         { name: "Get 3 Sky Characters" },
         { name: "Defeat 5 White Wolfos" },
         { name: "Defeat Argorok" },
-        { name: "Get 2 Silver Rupees From Chests" },
         { name: "Drink Great Fairy's Tears" },
         { name: "Die While Wearing Zora Armor" },
         { name: "Get Eaten by a Deku Like" },
